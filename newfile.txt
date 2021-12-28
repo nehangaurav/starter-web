@@ -1,0 +1,2 @@
+added new content while updated a file in local repository
+this is to create conflict
